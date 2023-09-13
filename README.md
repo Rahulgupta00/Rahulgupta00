@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<img align="right" alt ="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw1-sMFHcccE5f3r3t3dEMGh&ust=1694717450308000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCZ3M-gqIEDFQAAAAAdAAAAABAE"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgupta00&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgupta00" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulgupta00" alt="rahulgupta00" /></a> </p>
 
-- 🔭 I’m currently working on [Wheather App](git@github.com:Rahulgupta00/WheatherApp)
+- 🔭 I’m currently working on [Wheather App]
 
 - 🌱 I’m currently learning **frontend development**
 
